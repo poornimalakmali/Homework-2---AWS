@@ -1,4 +1,4 @@
-# Homework-2---AWS
+# Homework-3---AWS
 Logged into the cloud academy site using the credintials given by the lecturer.Then created an AWS account providing the necessary details and tried the labs in the cloud academy site.
 
 1)Create your first Amazon EC2 instance (Linux)
